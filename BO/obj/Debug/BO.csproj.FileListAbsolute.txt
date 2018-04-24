@@ -1,0 +1,18 @@
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\BO.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\ENTITY.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\DAL.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\bin\Debug\ENTITY.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\obj\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\BO\obj\Debug\BO.pdb

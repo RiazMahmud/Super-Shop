@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe.config
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home.resources
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.exe
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.pdb

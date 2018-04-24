@@ -1,0 +1,34 @@
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe.config
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP_UI.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home.resources
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP_UI.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.exe
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\ENTITY.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\BO.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\ENTITY.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\DAL.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home_Admin.resources
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home_Member.resources
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe.config
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.exe
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.exe
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\SUPER_SHOP.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\BO.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\DAL.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\BO.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\bin\Debug\DAL.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP_UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home.resources
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home_Admin.resources
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Home_Member.resources
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP.Properties.Resources.resources
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\SUPER_SHOP\obj\Debug\SUPER_SHOP_UI.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\bin\Debug\DAL.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\bin\Debug\ENTITY.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\bin\Debug\ENTITY.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\obj\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\DAL\obj\Debug\DAL.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\bin\Debug\DAL.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\bin\Debug\DAL.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\obj\Debug\DAL.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\DAL\obj\Debug\DAL.pdb

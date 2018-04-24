@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\ENTITY\bin\Debug\ENTITY.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\ENTITY\obj\Debug\ENTITY.dll
+\\psf\home\documents\visual studio 2013\Projects\SUPER_SHOP\ENTITY\obj\Debug\ENTITY.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\ENTITY\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\ENTITY\obj\Debug\ENTITY.dll
+\\psf\Home\Documents\VS_Projects\SUPER_SHOP\ENTITY\obj\Debug\ENTITY.pdb
